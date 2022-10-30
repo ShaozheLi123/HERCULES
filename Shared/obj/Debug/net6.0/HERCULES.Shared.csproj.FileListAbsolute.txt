@@ -1,0 +1,12 @@
+/Users/shaozhe/Desktop/NOTE/2022Fall/CISC437/vs/source/HERCULES/Shared/bin/Debug/net6.0/HERCULES.Shared.deps.json
+/Users/shaozhe/Desktop/NOTE/2022Fall/CISC437/vs/source/HERCULES/Shared/bin/Debug/net6.0/HERCULES.Shared.dll
+/Users/shaozhe/Desktop/NOTE/2022Fall/CISC437/vs/source/HERCULES/Shared/bin/Debug/net6.0/HERCULES.Shared.pdb
+/Users/shaozhe/Desktop/NOTE/2022Fall/CISC437/vs/source/HERCULES/Shared/obj/Debug/net6.0/HERCULES.Shared.csproj.AssemblyReference.cache
+/Users/shaozhe/Desktop/NOTE/2022Fall/CISC437/vs/source/HERCULES/Shared/obj/Debug/net6.0/HERCULES.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shaozhe/Desktop/NOTE/2022Fall/CISC437/vs/source/HERCULES/Shared/obj/Debug/net6.0/HERCULES.Shared.AssemblyInfoInputs.cache
+/Users/shaozhe/Desktop/NOTE/2022Fall/CISC437/vs/source/HERCULES/Shared/obj/Debug/net6.0/HERCULES.Shared.AssemblyInfo.cs
+/Users/shaozhe/Desktop/NOTE/2022Fall/CISC437/vs/source/HERCULES/Shared/obj/Debug/net6.0/HERCULES.Shared.csproj.CoreCompileInputs.cache
+/Users/shaozhe/Desktop/NOTE/2022Fall/CISC437/vs/source/HERCULES/Shared/obj/Debug/net6.0/HERCULES.Shared.dll
+/Users/shaozhe/Desktop/NOTE/2022Fall/CISC437/vs/source/HERCULES/Shared/obj/Debug/net6.0/refint/HERCULES.Shared.dll
+/Users/shaozhe/Desktop/NOTE/2022Fall/CISC437/vs/source/HERCULES/Shared/obj/Debug/net6.0/HERCULES.Shared.pdb
+/Users/shaozhe/Desktop/NOTE/2022Fall/CISC437/vs/source/HERCULES/Shared/obj/Debug/net6.0/ref/HERCULES.Shared.dll

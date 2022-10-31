@@ -9,6 +9,7 @@
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Components.WebAssembly.Server" Version="6.0.10" />
+    <PackageReference Include="Oracle.EntityFrameworkCore" Version="6.21.61" />
   </ItemGroup>
 
   <ItemGroup>
@@ -16,6 +17,10 @@
     <ProjectReference Include="..\Shared\HERCULES.Shared.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Remove="Oracle.EntityFrameworkCore" />
+    <None Remove="DataExtend\" />
+  </ItemGroup>
   <ItemGroup>
     <None Update="app.db" CopyToOutputDirectory="PreserveNewest" ExcludeFromSingleFile="true" />
   </ItemGroup>
@@ -29,4 +34,7 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="6.0.10" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="DataExtend\" />
+  </ItemGroup>
 </Project>

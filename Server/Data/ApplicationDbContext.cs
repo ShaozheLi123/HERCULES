@@ -6,7 +6,7 @@ using HERCULES.Server.Models;
 
 namespace HERCULES.Server.Data;
 
-public class ApplicationDbContext : ApiAuthorizationDbContext<ApplicationUser>
+public partial class ApplicationDbContext : ApiAuthorizationDbContext<ApplicationUser>
 {
     public ApplicationDbContext(
         DbContextOptions options,

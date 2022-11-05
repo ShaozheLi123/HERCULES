@@ -1,0 +1,17 @@
+/Users/shaozhe/Desktop/NOTE/2022Fall/CISC437/vs/source/HERCULES/HERCULES.EF/bin/Debug/net6.0/HERCULES.EF.deps.json
+/Users/shaozhe/Desktop/NOTE/2022Fall/CISC437/vs/source/HERCULES/HERCULES.EF/bin/Debug/net6.0/HERCULES.EF.dll
+/Users/shaozhe/Desktop/NOTE/2022Fall/CISC437/vs/source/HERCULES/HERCULES.EF/bin/Debug/net6.0/HERCULES.EF.pdb
+/Users/shaozhe/Desktop/NOTE/2022Fall/CISC437/vs/source/HERCULES/HERCULES.EF/bin/Debug/net6.0/HERCULES.Shared.dll
+/Users/shaozhe/Desktop/NOTE/2022Fall/CISC437/vs/source/HERCULES/HERCULES.EF/bin/Debug/net6.0/HERCULES.Shared.pdb
+/Users/shaozhe/Desktop/NOTE/2022Fall/CISC437/vs/source/HERCULES/HERCULES.EF/obj/Debug/net6.0/HERCULES.EF.csproj.AssemblyReference.cache
+/Users/shaozhe/Desktop/NOTE/2022Fall/CISC437/vs/source/HERCULES/HERCULES.EF/obj/Debug/net6.0/HERCULES.EF.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shaozhe/Desktop/NOTE/2022Fall/CISC437/vs/source/HERCULES/HERCULES.EF/obj/Debug/net6.0/HERCULES.EF.AssemblyInfoInputs.cache
+/Users/shaozhe/Desktop/NOTE/2022Fall/CISC437/vs/source/HERCULES/HERCULES.EF/obj/Debug/net6.0/HERCULES.EF.AssemblyInfo.cs
+/Users/shaozhe/Desktop/NOTE/2022Fall/CISC437/vs/source/HERCULES/HERCULES.EF/obj/Debug/net6.0/HERCULES.EF.csproj.CoreCompileInputs.cache
+/Users/shaozhe/Desktop/NOTE/2022Fall/CISC437/vs/source/HERCULES/HERCULES.EF/obj/Debug/net6.0/HERCULES.EF.csproj.CopyComplete
+/Users/shaozhe/Desktop/NOTE/2022Fall/CISC437/vs/source/HERCULES/HERCULES.EF/obj/Debug/net6.0/HERCULES.EF.dll
+/Users/shaozhe/Desktop/NOTE/2022Fall/CISC437/vs/source/HERCULES/HERCULES.EF/obj/Debug/net6.0/refint/HERCULES.EF.dll
+/Users/shaozhe/Desktop/NOTE/2022Fall/CISC437/vs/source/HERCULES/HERCULES.EF/obj/Debug/net6.0/HERCULES.EF.pdb
+/Users/shaozhe/Desktop/NOTE/2022Fall/CISC437/vs/source/HERCULES/HERCULES.EF/obj/Debug/net6.0/ref/HERCULES.EF.dll
+/Users/shaozhe/Desktop/NOTE/2022Fall/CISC437/vs/source/HERCULES/HERCULES.EF/bin/Debug/net6.0/HERCULES.EF.runtimeconfig.json
+/Users/shaozhe/Desktop/NOTE/2022Fall/CISC437/vs/source/HERCULES/HERCULES.EF/obj/Debug/net6.0/HERCULES.EF.genruntimeconfig.cache

@@ -1,19 +1,23 @@
-﻿<Properties StartupConfiguration="{3124B1C6-3695-4128-BD85-F559DEFEAC9E}|Default">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+﻿<Properties StartupConfiguration="{3124B1C6-3695-4128-BD85-F559DEFEAC9E}|Default" GitUserInfo="UsingMD">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Server/Program.cs">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MonoDevelop.Ide.ItemProperties.HERCULES.Server PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HERCULES.Client PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Server/appsettings.json">
     <Files>
-      <File FileName="Server/Program.cs" Line="11" Column="27" />
-      <File FileName="Server/appsettings.json" Line="3" Column="24" />
+      <File FileName="Server/Program.cs" Line="1" Column="1" />
+      <File FileName="Server/appsettings.json" Line="8" Column="40" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="HERCULES" expanded="True">
-            <Node name="HERCULES.Server" expanded="True" />
+            <Node name="HERCULES.EF" expanded="True" selected="True" />
+            <Node name="HERCULES.Server" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
@@ -22,6 +26,4 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.ItemProperties.HERCULES.Server PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

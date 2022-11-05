@@ -102,9 +102,11 @@
 /Users/shaozhe/Desktop/NOTE/2022Fall/CISC437/vs/source/HERCULES/Server/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
 /Users/shaozhe/Desktop/NOTE/2022Fall/CISC437/vs/source/HERCULES/Server/bin/Debug/net6.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
 /Users/shaozhe/Desktop/NOTE/2022Fall/CISC437/vs/source/HERCULES/Server/bin/Debug/net6.0/HERCULES.Client.dll
+/Users/shaozhe/Desktop/NOTE/2022Fall/CISC437/vs/source/HERCULES/Server/bin/Debug/net6.0/HERCULES.EF.dll
 /Users/shaozhe/Desktop/NOTE/2022Fall/CISC437/vs/source/HERCULES/Server/bin/Debug/net6.0/HERCULES.Shared.dll
 /Users/shaozhe/Desktop/NOTE/2022Fall/CISC437/vs/source/HERCULES/Server/bin/Debug/net6.0/HERCULES.Client.pdb
 /Users/shaozhe/Desktop/NOTE/2022Fall/CISC437/vs/source/HERCULES/Server/bin/Debug/net6.0/HERCULES.Shared.pdb
+/Users/shaozhe/Desktop/NOTE/2022Fall/CISC437/vs/source/HERCULES/Server/bin/Debug/net6.0/HERCULES.EF.pdb
 /Users/shaozhe/Desktop/NOTE/2022Fall/CISC437/vs/source/HERCULES/Server/obj/Debug/net6.0/HERCULES.Server.csproj.AssemblyReference.cache
 /Users/shaozhe/Desktop/NOTE/2022Fall/CISC437/vs/source/HERCULES/Server/obj/Debug/net6.0/HERCULES.Server.GeneratedMSBuildEditorConfig.editorconfig
 /Users/shaozhe/Desktop/NOTE/2022Fall/CISC437/vs/source/HERCULES/Server/obj/Debug/net6.0/HERCULES.Server.AssemblyInfoInputs.cache

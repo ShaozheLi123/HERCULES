@@ -15,11 +15,15 @@
   <ItemGroup>
     <ProjectReference Include="..\Client\HERCULES.Client.csproj" />
     <ProjectReference Include="..\Shared\HERCULES.Shared.csproj" />
+    <ProjectReference Include="..\HERCULES.EF\HERCULES.EF.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
   </ItemGroup>
 
   <ItemGroup>
     <None Remove="Oracle.EntityFrameworkCore" />
     <None Remove="DataExtend\" />
+    <None Remove="Models\" />
   </ItemGroup>
   <ItemGroup>
     <None Update="app.db" CopyToOutputDirectory="PreserveNewest" ExcludeFromSingleFile="true" />
@@ -36,5 +40,6 @@
 
   <ItemGroup>
     <Folder Include="DataExtend\" />
+    <Folder Include="Models\" />
   </ItemGroup>
 </Project>

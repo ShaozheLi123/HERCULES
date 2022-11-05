@@ -9,6 +9,7 @@
       "HERCULES.Server/1.0.0": {
         "dependencies": {
           "HERCULES.Client": "1.0.0",
+          "HERCULES.EF": "1.0.0",
           "HERCULES.Shared": "1.0.0",
           "Microsoft.AspNetCore.ApiAuthorization.IdentityServer": "6.0.10",
           "Microsoft.AspNetCore.Components.WebAssembly.Server": "6.0.10",
@@ -1038,6 +1039,18 @@
           "HERCULES.Client.dll": {}
         }
       },
+      "HERCULES.EF/1.0.0": {
+        "dependencies": {
+          "HERCULES.Shared": "1.0.0",
+          "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "6.0.10",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.10",
+          "Microsoft.EntityFrameworkCore.Tools": "6.0.10",
+          "Oracle.EntityFrameworkCore": "6.21.61"
+        },
+        "runtime": {
+          "HERCULES.EF.dll": {}
+        }
+      },
       "HERCULES.Shared/1.0.0": {
         "runtime": {
           "HERCULES.Shared.dll": {}
@@ -1724,6 +1737,11 @@
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
     },
     "HERCULES.Client/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HERCULES.EF/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

@@ -1447,6 +1447,23 @@
           "bin/placeholder/HERCULES.Client.dll": {}
         }
       },
+      "HERCULES.EF/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "HERCULES.Shared": "1.0.0",
+          "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": "6.0.10",
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "6.0.10",
+          "Microsoft.EntityFrameworkCore.Tools": "6.0.10",
+          "Oracle.EntityFrameworkCore": "6.21.61"
+        },
+        "compile": {
+          "bin/placeholder/HERCULES.EF.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/HERCULES.EF.dll": {}
+        }
+      },
       "HERCULES.Shared/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v6.0",
@@ -3746,6 +3763,11 @@
       "path": "../Client/HERCULES.Client.csproj",
       "msbuildProject": "../Client/HERCULES.Client.csproj"
     },
+    "HERCULES.EF/1.0.0": {
+      "type": "project",
+      "path": "../HERCULES.EF/HERCULES.EF.csproj",
+      "msbuildProject": "../HERCULES.EF/HERCULES.EF.csproj"
+    },
     "HERCULES.Shared/1.0.0": {
       "type": "project",
       "path": "../Shared/HERCULES.Shared.csproj",
@@ -3755,6 +3777,7 @@
   "projectFileDependencyGroups": {
     "net6.0": [
       "HERCULES.Client >= 1.0.0",
+      "HERCULES.EF >= 1.0.0",
       "HERCULES.Shared >= 1.0.0",
       "Microsoft.AspNetCore.ApiAuthorization.IdentityServer >= 6.0.10",
       "Microsoft.AspNetCore.Components.WebAssembly.Server >= 6.0.10",
@@ -3793,6 +3816,9 @@
           "projectReferences": {
             "/Users/shaozhe/Desktop/NOTE/2022Fall/CISC437/vs/source/HERCULES/Client/HERCULES.Client.csproj": {
               "projectPath": "/Users/shaozhe/Desktop/NOTE/2022Fall/CISC437/vs/source/HERCULES/Client/HERCULES.Client.csproj"
+            },
+            "/Users/shaozhe/Desktop/NOTE/2022Fall/CISC437/vs/source/HERCULES/HERCULES.EF/HERCULES.EF.csproj": {
+              "projectPath": "/Users/shaozhe/Desktop/NOTE/2022Fall/CISC437/vs/source/HERCULES/HERCULES.EF/HERCULES.EF.csproj"
             },
             "/Users/shaozhe/Desktop/NOTE/2022Fall/CISC437/vs/source/HERCULES/Shared/HERCULES.Shared.csproj": {
               "projectPath": "/Users/shaozhe/Desktop/NOTE/2022Fall/CISC437/vs/source/HERCULES/Shared/HERCULES.Shared.csproj"
